@@ -985,4 +985,8 @@ body {
   animation-play-state: paused !important;
 }
 
+.tx-color {
+  color: white;
+}
+
 /*# sourceMappingURL=style.css.map */
